@@ -22,7 +22,7 @@ Para a construção das consultas, utilizei técnicas avançadas para garantir p
 - **Case When:** Para segmentação lógica de períodos do dia (Manhã/Tarde/Noite) e dias da semana.
 - **Agregações e Agrupamentos:** `GROUP BY`, `ORDER BY` e funções de agregação para métricas históricas.
 
-## 📊 Estrutura dos Insights Gerados
+Estrutura dos Insights Gerados
 A consulta final resulta em uma visão consolidada por espectador, contendo:
 - `qtd_transacoes_historicas` (Vida, D7, D14, D28, D56)
 - `dias_desde_ultima_transacao`
