@@ -31,6 +31,5 @@ A consulta final resulta em uma visão consolidada por espectador, contendo:
 - `produto_mais_utilizado`
 - `dia_semana_mais_ativo`
 - `periodo_dia_mais_ativo`
-- 
 ---
 Desenvolvido por Lucas Oliveira Franco - www.linkedin.com/in/lucasofranco
